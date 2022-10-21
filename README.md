@@ -1,3 +1,7 @@
+# This is a hobby project.
+
+I am learning TypeScript and styled-components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
